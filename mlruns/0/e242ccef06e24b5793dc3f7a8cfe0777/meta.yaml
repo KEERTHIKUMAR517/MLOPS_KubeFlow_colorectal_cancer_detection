@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/GCP-MLOPS-END-TO-END/PROJECT-3/mlruns/0/e242ccef06e24b5793dc3f7a8cfe0777/artifacts
+end_time: 1753471258917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e242ccef06e24b5793dc3f7a8cfe0777
+run_name: nebulous-conch-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753471238878
+status: 3
+tags: []
+user_id: KEERTHI KUMAR

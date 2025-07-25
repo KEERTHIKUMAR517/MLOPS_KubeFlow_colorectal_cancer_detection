@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/GCP-MLOPS-END-TO-END/PROJECT-3/mlruns/0/83f72501d3ee4b898c0e12b8d7553a2e/artifacts
+end_time: 1753470987218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83f72501d3ee4b898c0e12b8d7553a2e
+run_name: awesome-koi-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753470986835
+status: 3
+tags: []
+user_id: KEERTHI KUMAR
